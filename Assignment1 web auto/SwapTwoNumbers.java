@@ -1,3 +1,5 @@
+//Task 1 – Write a program to swap two number. For example a=10 and b=20 output should be a=20 and b=10
+
 package Assignment1;
 
 import java.util.Scanner;
